@@ -1,0 +1,4 @@
+Program başlatılması için cmd de bin.\program.exe yazılması yeterlidir .
+programın yavaş kalmamasaı adına başta boş altıgenler basılır ardından tüm altıgenler okunarak ekrana basılır böylelikle hızlı bir çıktı alınması sağlanır 
+program.exe başladığında veriler okunur .hemn aşağısında kullanıcıdan kaç tur gidileceği sourulur .
+kullanıcı turları gittikten sonra başa dönmek isterse 'e' tuşuna tıklayarak başa dönebilir. 
